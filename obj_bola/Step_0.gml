@@ -14,6 +14,3 @@ else
 		IniciarJogoTimer = 15
 	}
 }
-
-if keyboard_check_pressed(vk_backspace) {speed = 0}
-if keyboard_check_pressed(vk_enter) {speed = 5}
